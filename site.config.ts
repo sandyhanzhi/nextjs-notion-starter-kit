@@ -6,11 +6,11 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: https://just-gull-dd9.notion.site/Design-Portfolio-ca1f96bd22a04c9d9d6674106109d2e3,
+  rootNotionSpaceId:'Design-Portfolio-ca1f96bd22a04c9d9d6674106109d2e3',
 
   // basic site info (required)
   name: 'Portfolio',
-  domain: 'Design-Portfolio-ca1f96bd22a04c9d9d6674106109d2e3',
+  domain: ' https://just-gull-dd9.notion.site/Design-Portfolio-ca1f96bd22a04c9d9d6674106109d2e3',
   author: 'yan xiao',
 
   // open graph metadata (optional)
